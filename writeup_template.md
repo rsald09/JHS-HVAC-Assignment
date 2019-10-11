@@ -1,4 +1,4 @@
-# **Elevator Assignment** 
+# **HVAC Assignment** 
 
 ## Writeup Template
 
@@ -6,19 +6,19 @@
 
 ---
 
-**Behavioral Cloning Project**
+**Model HVAC Project Goals**
 
 The goals of this project are the following:
-* Using fischertechniks and ROBOPro, build a prototype elevator to go between three floors
-* Once the elevator meets the intended floor, a light must turn on indicating the floor
-* After a designer-defined period of time, the elevator must go back to the first floor
+* Using fischertechniks and ROBOPro, build a prototype HVAC system to maintain a certain tolerance of temperature
+* A light should indicate whether the fan or the lamp is on
+* A control panel should count the number of seconds the fan or lamp has been on
 * Fully comment all functions within the flowchart program
 
 [//]: # (Image References)
 
-[image1]: https://github.com/userName/JHS-Elevator-Assignment/blob/master/images/image_example1.JPG "image_example1"
-[image2]: https://github.com/userName/JHS-Elevator-Assignment/blob/master/images/image_example2.JPG "image_example2"
-[image3]: https://github.com/userName/JHS-Elevator-Assignment/blob/master/images/image_example3.JPG "image_example3"
+[image1]: https://github.com/userName/JHS-HVAC-Assignment/blob/master/images/image_example1.JPG "image_example1"
+[image2]: https://github.com/userName/JHS-HVAC-Assignment/blob/master/images/image_example2.JPG "image_example2"
+[image3]: https://github.com/userName/JHS-HVAC-Assignment/blob/master/images/image_example3.JPG "image_example3"
 
 ## Rubric Points
 ### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
@@ -58,4 +58,4 @@ Here is where the code is implemented and integrating with my physical build:
 
 ### Output Video
 
-You can find video of the automated elevator at this [YouTube link](https://www.youtube.com)
+You can find video of the automated HVAC system at this [YouTube link](https://www.youtube.com)
